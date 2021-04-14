@@ -13,7 +13,6 @@ CREATE TABLE `blog_tag` (
 
 
 # 文章表
-
 CREATE TABLE `blog_article` (
                                 `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
                                 `tag_id` int(10) unsigned DEFAULT '0' COMMENT '标签ID',

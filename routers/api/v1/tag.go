@@ -16,7 +16,7 @@ func AddTag(c *gin.Context){
 }
 
 // 修改文章标签
-func EditTag(c *gin.Context)  {
+func EditTag(c *gin.Context){
 
 }
 
